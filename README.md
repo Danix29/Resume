@@ -42,7 +42,7 @@ Personal resume, cover letter and professional documents for **Daniel Del Nogal 
 | File | Language | Description | Last updated |
 |------|----------|-------------|--------------|
 | [`CV_English_Daniel_Del_Nogal.pdf`](./CV_English_Daniel_Del_Nogal.pdf) | 🇬🇧 English | Full resume — education, experience, projects & skills | Apr 2026 |
-| [`CV_Español_Daniel_Del_Nogal.pdf`](./CV_Español_Daniel_Del_Nogal.pdf) | 🇪🇸 Español | CV completo — formación, experiencia, proyectos y competencias | Abr 2026 |
+| [`CV_Español_Daniel_Del_Nogal.pdf`](./CV Daniel Del Nogal Buchanan.pdf) | 🇪🇸 Español | CV completo — formación, experiencia, proyectos y competencias | Abr 2026 |
 | [`Cover_Letter_EN.pdf`](./Cover_Letter_EN.pdf) | 🇬🇧 English | General cover letter | Apr 2026 |
 
 > References available upon request.
