@@ -66,7 +66,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 <br><br>
 
-**[`CV_English_Daniel_Del_Nogal.pdf`](./CV_English_Daniel_Del_Nogal_Buchanan.pdf)**
+**[`CV_English_Daniel_Del_Nogal.pdf`](./CV_English_Daniel_Del_Nogal.PDF)**
 
 Full resume in English
 Education · Experience
