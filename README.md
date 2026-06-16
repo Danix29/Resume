@@ -74,7 +74,7 @@ Projects · Skills
 
 <br>
 
-![Updated](https://img.shields.io/badge/Updated-Apr%202026-1D9E75?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-Jun%202026-1D9E75?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -91,7 +91,7 @@ Proyectos · Competencias
 
 <br>
 
-![Updated](https://img.shields.io/badge/Actualizado-Abr%202026-1D9E75?style=flat-square)
+![Updated](https://img.shields.io/badge/Actualizado-Jun%202026-1D9E75?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -109,7 +109,7 @@ Open to opportunities
 
 <br>
 
-![Updated](https://img.shields.io/badge/Updated-Apr%202026-1D9E75?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-Jun%202026-1D9E75?style=flat-square)
 
 </td>
 </tr>
