@@ -100,10 +100,11 @@ Proyectos · Competencias
 
 <br><br>
 
-**[`Cover_Letter_EN.pdf`](./Cover_Letter_EN.pdf)**
+**[`Cover_Letter_EN.pdf`](./CoverLetter_EN.pdf)**
+**[`Carta de Presentación.pdf`](./CartaPresentation_ES.pdf)**
 
 General cover letter
-English · Professional
+English · Professional · Español
 Open to opportunities
 
 <br>
