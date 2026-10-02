@@ -24,7 +24,7 @@
 
 <table><tr><td>
 
-Computer Engineering student at UAH combining academic studies with **2+ years of active professional experience** in high-responsibility environments. Working simultaneously as a **Security, Lifesaving and Risk Management Specialist** at Base Aerea de Torrejon and as a **Swimming Instructor and Aquatic Coordinator** at Humanitas Bilingual School — both roles requiring decision-making under pressure, team coordination, safety protocol supervision and technical communication in a bilingual (ES/EN) environment.
+Computer Engineering student at UAH combining academic studies with **3+ years of active professional experience** in high-responsibility environments. Working simultaneously as a **Security, Lifesaving and Risk Management Specialist** at Base Aerea de Torrejon and as a **Swimming Instructor and Aquatic Coordinator** at Humanitas Bilingual School — both roles requiring decision-making under pressure, team coordination, safety protocol supervision and technical communication in a bilingual (ES/EN) environment.
 
 Technically focused on **concurrent and distributed systems** (Java RMI, POSIX threads), **advanced databases** (PostgreSQL, Oracle, RBAC) and **algorithms** (Dynamic Programming, Backtracking, Branch and Bound).
 
@@ -45,7 +45,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | | |
 |:---:|:---|
 | 🇪🇸 | Espanol C2 — Native |
-| 🇬🇧 | English B2 to C1 |
+| 🇬🇧 | English C1+ — Certified (EOI) |
 | 🚗 | Driver's License Type B |
 
 </td></tr></table>
@@ -68,13 +68,13 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 **[`CV_English_Daniel_Del_Nogal.pdf`](./CV_English_Daniel_Del_Nogal.PDF)**
 
-Full resume in English
+Harvard-format resume, one page
 Education · Experience
 Projects · Skills
 
 <br>
 
-![Updated](https://img.shields.io/badge/Updated-Jun%202026-1D9E75?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-Oct%202026-1D9E75?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -83,15 +83,15 @@ Projects · Skills
 
 <br><br>
 
-**[`CV_Espanol_Daniel_Del_Nogal.pdf`](./CV_Espanol_Daniel_Del_Nogal_Buchanan.pdf)**
+**[`CV_Espanol_Daniel_Del_Nogal_Buchanan.pdf`](./CV_Espanol_Daniel_Del_Nogal_Buchanan.pdf)**
 
-CV completo en espanol
-Formacion · Experiencia
+CV en formato Harvard, una página
+Formación · Experiencia
 Proyectos · Competencias
 
 <br>
 
-![Updated](https://img.shields.io/badge/Actualizado-Jun%202026-1D9E75?style=flat-square)
+![Updated](https://img.shields.io/badge/Actualizado-Oct%202026-1D9E75?style=flat-square)
 
 </td>
 <td align="center" width="33%">
