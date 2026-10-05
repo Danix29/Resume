@@ -45,7 +45,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | | |
 |:---:|:---|
 | 🇪🇸 | Espanol C2 — Native |
-| 🇬🇧 | English C1+ — Certified (EOI) |
+| 🇬🇧 | English C1+ — Certified |
 | 🚗 | Driver's License Type B |
 
 </td></tr></table>
