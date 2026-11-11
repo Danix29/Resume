@@ -6,7 +6,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-085041?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
-[![Phone](https://img.shields.io/badge/%2B34%20644%20543%20608-1D9E75?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Location](https://img.shields.io/badge/Torrej%C3%B3n%20de%20Ardoz%2C%20Madrid-5DCAA5?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/Danix29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
 
