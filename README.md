@@ -23,7 +23,7 @@
 
 <table><tr><td>
 
-Computer Engineering student at UAH combining academic studies with **3+ years of active professional experience** in high-responsibility environments. Working simultaneously as a **Security, Lifesaving and Risk Management Specialist** at Base Aerea de Torrejon and as a **Swimming Instructor and Aquatic Coordinator** at Humanitas Bilingual School — both roles requiring decision-making under pressure, team coordination, safety protocol supervision and technical communication in a bilingual (ES/EN) environment.
+Third-year Computer Engineering student at UAH. Alongside my studies I work part-time as a **lifeguard** (since October 2024) and **swimming instructor** (since April 2025) at Humanitas Bilingual School, after a summer as a lifeguard at Base Aerea de Torrejon (2022).
 
 Technically focused on **concurrent and distributed systems** (Java RMI, POSIX threads), **advanced databases** (PostgreSQL, Oracle, RBAC) and **algorithms** (Dynamic Programming, Backtracking, Branch and Bound).
 
@@ -132,32 +132,37 @@ Open to opportunities
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
-<img src="https://img.shields.io/badge/Security%20and%20Risk%20Management-085041?style=for-the-badge&logo=shield&logoColor=white"/>
+**Swimming Instructor (part-time)**
+Humanitas Bilingual School
+`Apr 2025 — Present`
 
-**Base Aerea de Torrejon · Humanitas**
-`May 2023 — Present`
-
-- Emergency protocol execution
-- Security team coordination
-- Preventive risk assessment
-- Infrastructure QC monitoring
-- Bilingual environment ES/EN
+- Lessons for babies, children, adults and children with disabilities
+- Interactive session planning
+- Pool safety supervision
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/Swimming%20Instructor%20and%20Coordinator-1D9E75?style=for-the-badge&logo=waterpolo&logoColor=white"/>
+**Lifeguard (part-time)**
+Humanitas Bilingual School
+`Oct 2024 — Present`
 
-**Humanitas Bilingual School Torrejon**
-`Feb 2025 — Present`
+- Lifeguard at the teaching pool, all ages
+- Pool upkeep and access control
+- Facility monitoring
 
-- Personalized technical planning
-- Session supervision and safety
-- Stakeholder reporting
-- Multi-group coordination
-- Performance tracking
+</td>
+<td width="33%" valign="top">
+
+**Lifeguard and Pool Staff (summer)**
+Base Aerea de Torrejon, via Instinto Deportivo
+`Jun 2022 — Aug 2022`
+
+- Recreational and training pools
+- Access control and activity support
+- Teamwork with lifeguards and staff
 
 </td>
 </tr>
